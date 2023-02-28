@@ -3,7 +3,7 @@ Web application created using ReactJS for Powstik
 
 ## How to run the app
 
-1. Visit the [created website](https://ananyaraju.github.io/) to view the ReactJS app OR
+1. Visit the [created website](https://ananyaraju.github.io/powstik-reactJS/) to view the ReactJS app OR
 2. Use the following scripts to run the app <br>
 `npm start`: Runs the app in the development mode. Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.<br>
 `npm test`: Launches the test runner in the interactive watch mode.<br>
