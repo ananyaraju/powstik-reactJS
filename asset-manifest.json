@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/powstik-reactJS/static/css/main.2d5896d0.css",
-    "main.js": "/powstik-reactJS/static/js/main.7e7a6756.js",
+    "main.js": "/powstik-reactJS/static/js/main.11a03860.js",
     "static/js/787.59d2309b.chunk.js": "/powstik-reactJS/static/js/787.59d2309b.chunk.js",
     "static/media/veg-bg.jpg": "/powstik-reactJS/static/media/veg-bg.8f90c8e7df7039854bc6.jpg",
     "static/media/shop.png": "/powstik-reactJS/static/media/shop.df36715f9eacadb9e2d5.png",
     "index.html": "/powstik-reactJS/index.html",
     "main.2d5896d0.css.map": "/powstik-reactJS/static/css/main.2d5896d0.css.map",
-    "main.7e7a6756.js.map": "/powstik-reactJS/static/js/main.7e7a6756.js.map",
+    "main.11a03860.js.map": "/powstik-reactJS/static/js/main.11a03860.js.map",
     "787.59d2309b.chunk.js.map": "/powstik-reactJS/static/js/787.59d2309b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d5896d0.css",
-    "static/js/main.7e7a6756.js"
+    "static/js/main.11a03860.js"
   ]
 }
