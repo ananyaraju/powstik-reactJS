@@ -14,7 +14,7 @@ function App() {
       <BrowserRouter>
           <NavBar />
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/powstik-reactJS" element={<Home />} />
             <Route path="/register" element={<Register />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/signup" element={<SignUp />} />
