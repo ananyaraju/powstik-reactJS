@@ -1,0 +1,67 @@
+.home-body {
+    margin-top: 150px !important;
+    margin: 10%;
+    text-decoration: none;
+    color: black;
+    margin-top: 100px;
+    margin-right: 10%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.columnline {
+    border-left: 2px dashed #7777779c;
+    height: auto;
+}
+
+.column1 {
+    color: #000000;
+    width: 20%;
+    border-left: 2px;
+    padding-right: 15px;
+}
+.column2 {
+    color: #000000;
+    width: 75%;
+    padding-left: 70px;
+}
+
+.homeTitles {
+    color: black;
+    font-size: xx-large;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.home-block {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.product-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.header {
+    padding-top: 30px;
+    font-family: "Secular One";
+    font-weight: "bold";
+    font-size: xx-large;
+    height: 250px;
+}
+
+.filter-box {
+    margin-top: 80px;
+}
+
+.category {
+    color: #777777;
+    text-decoration: none;
+}
+
+.category:hover {
+    color: #5c5c5c;
+}

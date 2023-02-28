@@ -1,0 +1,40 @@
+.cart-body {
+    margin-top: 140px;
+    text-align: center;
+}
+
+.shopnow-btn {
+    background-color: #FF5800;
+    color: black;
+    border: none;
+}
+
+.shopnow-btn:hover, .shopnow-btn:active {
+    background-color: #FF5800 !important;
+}
+
+.quantity-buttons, .quantity-buttons:active {
+    background-color: #16BE47 !important;
+    border: none;
+}
+
+.quantity-buttons:hover {
+    background-color: #12973a ;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+tr:hover {
+    background-color: #b4b7b4;
+}
+
+table, td {
+    border: 1px dashed rgba(145, 144, 144, 0.642);
+}
+
+.cart-table2 {
+    margin-top: -70px;
+}
